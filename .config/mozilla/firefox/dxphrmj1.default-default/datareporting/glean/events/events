@@ -1,0 +1,6 @@
+{"timestamp":2068260,"category":"pwmgr","name":"storage_operation_time","extra":{"backend":"rust","glean_timestamp":"1792035699975","duration_ms":"5278","operation":"count"}}
+{"timestamp":2073309,"category":"translations","name":"identify_page_language","extra":{"confident":"false","extracted_code_units":"0","is_lang_attribute_valid":"true","glean_timestamp":"1792035705024","identified_language":"en","identification_time":"3063.8373660000507","lang_tags_match":"true","html_lang_attribute":"en"}}
+{"timestamp":2245874,"category":"slow_script_warning","name":"shown_browser","extra":{"hang_duration":"18.572878428","uri_type":"browser","glean_timestamp":"1792035877593"}}
+{"timestamp":2387648,"category":"slow_script_warning","name":"shown_browser","extra":{"uri_type":"browser","hang_duration":"14.823988751","glean_timestamp":"1792036019368"}}
+{"timestamp":2409444,"category":"slow_script_warning","name":"shown_browser","extra":{"hang_duration":"13.405110468","glean_timestamp":"1792036041181","uri_type":"browser"}}
+{"timestamp":3039613,"category":"slow_script_warning","name":"shown_browser","extra":{"uri_type":"browser","glean_timestamp":"1792036671335","hang_duration":"17.740016376"}}
